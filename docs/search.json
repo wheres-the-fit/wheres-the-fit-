@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2023-05-12T11:12:28+00:00"
+    },
+    {
+      "path": "index.html",
+      "title": "where's the fit",
+      "author": [],
+      "contents": "\n\n          \n          \n          name of your website\n          \n          \n          Home\n          About\n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              where’s the fit\n            \n            \n              \n                \n                    \n                      \n                        quote of the week\n                      \n                    \n                  \n                                    \n                    \n                      \n                        The News\n                      \n                    \n                  \n                                    \n                    \n                      \n                        Games\n                      \n                    \n                  \n                                    \n                    \n                      \n                        quizes\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            \n            Bio\n            hii, welcom to WTF or where’s the fit where we discus all\n            things pop culture and more.have fun <3\n            \n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              where’s the fit\n            \n            \n              \n                \n                                    \n                    \n                      quote of the week\n                    \n                  \n                                    \n                    \n                      The News\n                    \n                  \n                                    \n                    \n                      Games\n                    \n                  \n                                    \n                    \n                      quizes\n                    \n                  \n                                  \n              \n            \n            \n              \n              Bio\n              hii, welcom to WTF or where’s the fit where we discus\n              all things pop culture and more.have fun <3\n              \n            \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2023-05-26T10:59:58+00:00"
+    }
+  ],
+  "collections": []
+}

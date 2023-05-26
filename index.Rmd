@@ -1,0 +1,20 @@
+---
+title: "where's the fit"
+image: "1.png"
+links:
+  - label: quote of the week
+    url: "https://www.pinterest.co.uk/pin/352054895883630632/"
+  - label: The News
+    url: "https://www.teenvogue.com/"
+  - label: Games
+    url: "https://yandex.com/games/"
+  - label: quizes  
+    url: "https://www.buzzfeed.com/uk/quizzes"
+output:
+  postcards::trestles
+site: distill::distill_website 
+---
+ 
+## Bio
+
+hii, welcom to WTF or where's the fit where we discus all things pop culture and more.have fun <3 
